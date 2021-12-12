@@ -145,3 +145,4 @@ Id,SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,Species
 144,6.8,3.2,5.9,2.3,Iris-virginica
 145,6.7,3.3,5.7,2.5,Iris-virginica
 146,6.7,3.0,5.2,2.3,Iris-virginica
+147,6.3,2.5,5.0,1.9,Iris-virginica
