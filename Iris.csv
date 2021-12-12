@@ -77,3 +77,4 @@ Id,SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,Species
 76,6.6,3.0,4.4,1.4,Iris-versicolor
 77,6.8,2.8,4.8,1.4,Iris-versicolor
 78,6.7,3.0,5.0,1.7,Iris-versicolor
+79,6.0,2.9,4.5,1.5,Iris-versicolor
