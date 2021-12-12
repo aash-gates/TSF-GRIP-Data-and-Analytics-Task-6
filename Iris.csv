@@ -14,3 +14,4 @@ Id,SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,Species
 13,4.8,3.0,1.4,0.1,Iris-setosa
 14,4.3,3.0,1.1,0.1,Iris-setosa
 15,5.8,4.0,1.2,0.2,Iris-setosa
+16,5.7,4.4,1.5,0.4,Iris-setosa
